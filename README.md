@@ -1,5 +1,4 @@
-## Olá! me chamo João Victor 
-
+## Olá! me chamo Luiza Ferreira
 
 - 🔭 Atualmente estou me formando para me tornar dev full-stack
 - 🌱 Estudando JavaScript
